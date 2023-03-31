@@ -1,0 +1,4 @@
+[submodule "app/src/main/cpp/vendor/FFmpeg"]
+	path = app/src/main/cpp/vendor/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+	branch = release/6.0
