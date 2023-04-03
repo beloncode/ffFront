@@ -1,11 +1,12 @@
+package com.beloncode.fffront
+
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.beloncode.fffront.R
 
-class ExampleFragment : Fragment() {
+class MediaSelector : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
